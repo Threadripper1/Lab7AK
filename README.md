@@ -5,4 +5,8 @@
 3. Modificate `Makefile` for example `appendix1`.
 4. Search a crash for commands `objdump` and `gdb`.
 ## So let's start:
-Use `ls` how see our files.
+Use `ls` how see our files. And use insmod for `hello1.ko` and `hello2.ko`
+![]()
+![]()
+
+
